@@ -1,0 +1,7 @@
+streamlit 
+pandas
+matplotlib 
+scapy 
+colorama
+uncompyle6
+python-telegram-bot
